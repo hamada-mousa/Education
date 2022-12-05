@@ -261,12 +261,12 @@ a {
 body {
     overflow-x: hidden;
     position: relative;
-    height: 3000px
+    /* height: 3000px */
 }
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 400px !important;
+    /* scroll-padding-top: 400px !important; */
 }
 
 section div.container {
